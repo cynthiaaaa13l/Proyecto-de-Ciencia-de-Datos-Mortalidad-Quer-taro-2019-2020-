@@ -1,0 +1,2 @@
+# Proyecto-de-Ciencia-de-Datos-Mortalidad-Quer-taro-2019-2020-
+Proyecto de ciencia de datos sobre la mortalidad en Querétaro, haciendo así una comparación sobre el año 2019 y el año 2020 que fue un año con pandemia. Este es un proyecto de la materia de Ciencia de Datos de la carrera de Actuaría en la Universidad Iberoamericana. Se utilizó Excel y Python para la limpieza de la base de datos y Tableau para realizar las gráficas y la visualización de los datos.
